@@ -11,7 +11,7 @@ Github   : <a href="/huskylib.py">Github</a>
 <p>USB Connection (Mac/Windows/Linux -&gt; Huskylens)</p>
 <ul>
 <li><code>pip3 install pyserial pypng</code></li>
-<li>Place the <a href="/huskylib.py">huskylib.py</a> file within your projects folder</li>
+<li>Place the <a href="/HUSKYLENS/huskylib.py">huskylib.py</a> file within your projects folder</li>
 <li><code>from huskylib import HuskyLensLibrary</code></li>
 <li><code>hl = HuskyLensLibrary("SERIAL", "/dev/ttyUSB0")</code></li>
 <li><code>print(h1.knock()</code></li>
