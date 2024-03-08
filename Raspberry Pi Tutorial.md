@@ -8,7 +8,7 @@ The primary protocol for communication between the HuskyLens and a Raspberry PI 
 
 #### Pin Outline
 
-<a herf"https://pinout.xyz/pinout/i2c"> Raspberry Pi GPIO Pinout </a> 
+https://pinout.xyz/pinout/i2c Raspberry Pi GPIO Pinout </a> 
 
 > ### I2C Wiring
 >
