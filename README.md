@@ -1,4 +1,8 @@
-<h1 id="huskylens-python-api">HUSKYLENS Python API</h1>
+<h1 id="update-in-the-library">What's New</h1>
+<li>Updated SMBus library to SMBus2</li>
+<
+
+<h2 id="huskylens-python-api">HUSKYLENS Python API</h2>
 <pre><code>Author            : Robert (robert@dfrobot.com) [Main Author]
                   : JiaLeChye (Jialecjl2016@outlook.com)
 Version           : 0.2
