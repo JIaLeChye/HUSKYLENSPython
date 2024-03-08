@@ -1,7 +1,8 @@
 <h1 id="huskylens-python-api">HUSKYLENS Python API</h1>
 <pre><code>Author   : Robert (robert@dfrobot.com) 
-Version  : 0.1
-Date     : 08/04/2020
+   : JiaLeChye
+Version  : 0.2
+Date     : 08/03/2024
 Github   : <a href="/huskylib.py">Github</a>
 </code></pre>
 <hr>
