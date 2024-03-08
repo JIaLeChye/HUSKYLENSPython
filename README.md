@@ -1,6 +1,6 @@
 <h1 id="huskylens-python-api">HUSKYLENS Python API</h1>
-<pre><code>Author   : Robert (robert@dfrobot.com) 
-         : JiaLeChye
+<pre><code>Author   : Robert (robert@dfrobot.com) [Main Author]
+         : JiaLeChye (Jialecjl2016@outlook.com)
 Version  : 0.2
 Date     : 08/03/2024
 Github   : <a href="/huskylib.py">Github</a>
