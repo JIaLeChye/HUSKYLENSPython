@@ -8,7 +8,7 @@ The primary protocol for communication between the HuskyLens and a Raspberry PI 
 
 #### Pin Outline
 
-![CI2C Wiring Guide ](http://www.raspberrypirobotics.com/wp-content/uploads/2018/01/Raspberry-pi-I2C-pins.png)
+![CI2C Wiring Guide ](https://pinout.xyz/pinout/i2c)
 
 > ### I2C Wiring
 >
