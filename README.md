@@ -3,7 +3,7 @@
          : JiaLeChye (Jialecjl2016@outlook.com)
 Version  : 0.2
 Date     : 08/03/2024
-Github   : <a href="/HUSKYLENS/huskylib.py">Github</a>
+Github   : <a href="/">Github</a>
 </code></pre>
 <hr>
 <h3 id="quick-start">Quick Start</h3>
