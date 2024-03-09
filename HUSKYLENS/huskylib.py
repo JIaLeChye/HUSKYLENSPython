@@ -174,7 +174,7 @@ class HuskyLensLibrary:
                         byteString += bytes([(self.huskylensSer.read_byte(self.address))])
                 # print(type(byteString))
                 commandSplit = self.splitCommandToParts(byteString.hex())
-                print(commandSplit)
+                # print(commandSplit)
                 if(commandSplit[3] == "2e"):
                     self.checkOnceAgain=True
                     return "Knock Recieved"
